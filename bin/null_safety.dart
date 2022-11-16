@@ -7,7 +7,7 @@ void main() {
     print(ageDouble);
   }
 
-  String name = 'Eko';
+  String name = 'Via';
   String? nullableName = name;
 
   int? nullablePrice = null;
@@ -16,7 +16,7 @@ void main() {
   }
 
   String? guest;
-  //  guest = 'Eko';
+  //  guest = 'Via';
   String guestName = guest ?? 'Guest';
   // String guestName =  guest != null ? guest : 'Guest';
 
