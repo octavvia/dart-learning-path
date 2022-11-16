@@ -15,7 +15,7 @@ after extracted zip in folder u want, lets setting up path env
 
 ## make new project
 
-in ```cmd``` type ```dart new project_name``` 
+in ```cmd``` type ```dart create project_name``` 
 
 and add the file project in folder ```/bin```
 
