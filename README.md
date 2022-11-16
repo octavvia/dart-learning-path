@@ -11,7 +11,7 @@ step two :
 
 after extracted zip in folder u want, lets setting up path env
 
-```start-env-edit env-path-edit- new- paste your bin dart route- save```
+```start-env-edit env-path-edit- new``` paste your bin dart route then ```save```
 
 ## make new project
 
