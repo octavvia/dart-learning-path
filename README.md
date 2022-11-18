@@ -59,3 +59,7 @@ and add the file project in folder ```/bin```
 - scope
 - closure
 - function recrusive
+
+## Next in OOP dart
+
+here the link https://github.com/vviia/dart-oop-learning-path
