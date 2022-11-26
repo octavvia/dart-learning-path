@@ -1,7 +1,7 @@
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
-## installing
+## installing dart
 
 step one :
 
@@ -19,7 +19,7 @@ in ```cmd``` type ```dart create project_name```
 
 and add the file project in folder ```/bin```
 
-## list of this repository
+## list of this topic
 - belajar dart dasar
 - hello world
 - variable
