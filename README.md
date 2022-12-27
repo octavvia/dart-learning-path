@@ -1,3 +1,14 @@
+## <p align=center> My Learning Track With Dart Programming Langguagge</p>
+
+My learning path with the Dart programming language started with the traditional "Hello, World!" program. From there, I moved on to learning about variables, data types, and basic control structures such as if-else statements. I practiced using these concepts to build simple programs that involved decision-making and branching.
+
+As I gained more familiarity with the language, I explored more advanced features such as functions, classes, and object-oriented programming. I also learned about asynchronous programming and how to use the Dart asynchronous features to build responsive and efficient applications.
+
+Throughout my learning journey, I focused on understanding the core concepts of the language and building a strong foundation in order to be able to tackle more complex tasks. I found that regularly practicing and applying what I had learned through building small projects and solving challenges helped me to solidify my understanding and improve my skills.
+
+Overall, my learning path with Dart has been a rewarding and enjoyable experience, and I am confident that the skills and knowledge I have gained will serve me well as I continue to develop my skills as a programmer.
+_____________________________
+
 ## installing dart
 
 step one :
